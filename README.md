@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phalcon-postgres
 
 simple backend project created with phalcon v4
@@ -27,3 +28,6 @@ simple backend project created with phalcon v4
 ## About Me
 
 
+=======
+# Phalcon-postgres
+>>>>>>> ba50420c42c676886db8ea528124c16ddb09f4b5
